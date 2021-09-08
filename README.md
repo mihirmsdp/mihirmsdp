@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Deshpande</h1>
 <h3 align="center">A passionate developer interested in AI and DS</h3>
 
-- 🌱 I’m currently learning **Neural Networks and Deep Learning**
-
-- I currently am a student pursuing B.Tech **in Artificial Intelligence and Data Science at Vishwakarma Institute Of Technology, Pune, Maharashtra, India.**
+- 🌱 I’m currently learning **Data Science with R Programing**
 
 - 👨‍💻 All of my projects are available at [https://mihirmsdp.github.io/](https://mihirmsdp.github.io/)
 
