@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science with R Programing**
 
-- 👨‍💻 All of my projects are available at [https://mihirmsdp.github.io/](https://mihirmsdp.github.io/)
+- 👨‍💻 All of my projects are available at [https://mihirdesphande.vercel.app/](https://mihirdesphande.vercel.app/)
 
 - 📫 How to reach me **mihirmsdp@gmail.com**
 
